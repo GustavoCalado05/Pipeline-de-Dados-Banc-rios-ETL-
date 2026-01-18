@@ -47,4 +47,11 @@ Você precisa ter o Python instalado. Em seguida, instale as bibliotecas necess�
 ```bash
 pip install pandas matplotlib
 
-<img width="914" height="234" alt="Gráfico png" src="https://github.com/user-attachments/assets/e438354a-1672-47a8-9316-407bcab61da8" />
+### Resultado
+id,Nome,Saldo,Score,Status_Marketing,Probabilidade
+1,Gustavo,1500.0,20,Seguro de Vida Familiar,Probabildade de pagamento moderada
+2,Maria,250.5,90,Crédito Pré-Aprovado,Probabildade de pagamento extremamente alta
+3,João,5200.0,40,Consultoria de Investimentos VIP,Probabildade de pagamento moderada
+4,Pedro,52000.0,-20,Consultoria de Investimentos VIP,Probabildade de pagamento extremamente baixa
+
+
